@@ -1,3 +1,3 @@
-Exercicio de git
+aula-git-ebac
 
 Modificando o arquivo de dados
